@@ -37,10 +37,6 @@ Linear regression models have many real-world applications in an array of indust
 
 Understanding how to implement linear regression models can unearth stories in data to solve important problems.
 
-## Authors
-
-- [@MichaelTobiko](https://github.com/miketobz)
-
 
 ## API Reference
 
